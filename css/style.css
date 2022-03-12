@@ -1,0 +1,195 @@
+.nav-item:hover{
+  background-color: rgba(29, 144, 110, 1)
+}
+
+
+
+.back-img{
+  background-image: url(../images/computers.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 700px;
+  width: 100%;
+}
+
+.back-color{
+  background:#141E27 ;
+  opacity: 0.5;
+}
+
+
+.banner-contant{
+  padding: 300px 0;
+  text-align: center;
+    color: #EFFFFD;
+}
+
+.banner-contant h1{
+  font-size: 70px;
+}
+
+.banner-contant p{
+  font-size: 30px;
+}
+
+
+.buttonClass {
+  font-size:25px;
+  font-family:Arial;
+  width:300px;
+  height:72px;
+  border-width:0px;
+  color:#fff;
+  border-color:rgba(80, 219, 158, 1);
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-left-radius:0px;
+  border-bottom-right-radius:0px;
+  text-shadow: 1px 1px 0px rgba(23, 90, 54, 1);
+  background:rgba(61, 218, 148, 1);
+  padding: 10PX 10PX;
+  text-decoration: none;
+}
+
+.buttonClass:hover {
+  background: rgba(29, 144, 110, 1)
+}
+
+.one{
+
+  text-align: center;
+  padding: 100px 0;
+
+}
+
+.two h1{
+
+  padding: 100px 0;
+  text-align: center;
+}
+
+.two{
+  background-color: #B4CFB0;
+  padding-bottom: 100px;
+}
+
+
+.col-lg-4 img{
+  height: 50px;
+  width: 50px;
+}
+.row{
+  text-align: center;
+}
+
+.col-lg-4-text{
+  padding: 20px 0;
+}
+
+.three{
+  text-align: center;
+
+}
+
+.two-text h3{
+  padding: 55px 55px;
+    color: #EFFFFD;
+    font-size: 40px;
+}
+
+
+.two-text p{
+  padding-top: 55px;
+  color: #EFFFFD;
+  font-size: 20px;
+}
+
+.two-text {
+  padding: 100px 0;
+}
+
+.two-text h1{
+color: #EFFFFD;
+}
+
+
+.back-img2{
+  background-image: url(../images/darkcomputer.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 700px;
+  width: 100%;
+}
+
+.back-color2{
+  background:#141E27 ;
+  opacity: 0.5;
+}
+
+
+.four{
+    background-color: #B4CFB0;
+    text-align: center;
+    padding: 100px 50px;
+}
+
+.four img{
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+
+.row{
+  margin-right: 15px;
+  padding: 100px 0;
+}
+.five{
+  padding: 50px 50px;
+  text-align: center;
+}
+
+.five h4{
+  padding-bottom: 20px;
+}
+
+footer{
+  background-color: #203239;
+  padding: 50px 0;
+  text-align: center;
+}
+
+footer p{
+  color: #EFFFFD;
+}
+
+
+footer h4{
+color: #EFFFFD;
+}
+
+footer img{
+  padding: 50px 50px;
+}
+
+
+.fa-brands{
+  display: inline-block;
+  color: #EFFFFD;
+}
+
+.fa-brands:hover{
+  background: rgba(29, 144, 110, 1)
+}
+
+.four hr{
+  color: #00C897;
+  height: : 5px;
+}
+
+footer hr{
+    height: 12px;
+    background: #ffffff;
+
+}
